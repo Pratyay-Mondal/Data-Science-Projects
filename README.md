@@ -1,3 +1,3 @@
-# Practice
+# The Spark Foundation
 
-Data Science and Business Analytics
+My all codes for the 'Data Science and Business Analytics Internship'
