@@ -1,3 +1,4 @@
-# The Spark Foundation
+# Data Science Projects
 
-My all codes for the 'Data Science and Business Analytics Internship'
+My all codes for the data science projects
+
